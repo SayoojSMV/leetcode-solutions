@@ -9,5 +9,6 @@ My personal LeetCode solutions in C++.
 | 1 | Two Sum | Easy |
 | 9 | Palindrome Number | Easy |
 | 13 | Roman to Integer | Easy |
+| 14 | Longest Common Prefix | Easy |
 
-Total Solved: **3**
+Total Solved: **4**
