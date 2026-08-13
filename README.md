@@ -10,9 +10,10 @@ My personal LeetCode solutions in C++.
 | 9 | Palindrome Number | Easy |
 | 13 | Roman to Integer | Easy |
 | 14 | Longest Common Prefix | Easy |
-| 20 | Valid Parentheses| Easy |
+| 20 | Valid Parentheses | Easy |
 | 21 | Merge Two Sorted Lists | Easy |
 | 26 | Remove Duplicates from Sorted Array | Easy |
-| 27 | Remove ELement | Easy |
+| 27 | Remove Element | Easy |
+| 28 | Find the Index of the First Occurrence in a String | Easy |
 
-Total Solved: **8**
+Total Solved: **9**
