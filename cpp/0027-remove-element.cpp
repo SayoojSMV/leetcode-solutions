@@ -8,7 +8,6 @@ public:
             if (nums[i] != val) {
                 nums[j] = nums[i];
                 j++;
-
             }
 
             i++;
