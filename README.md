@@ -16,5 +16,6 @@ My personal LeetCode solutions in C++.
 | 27 | Remove Element | Easy |
 | 28 | Find the Index of the First Occurrence in a String | Easy |
 | 35 | Search Insert Position | Easy |
+| 58 | Length of Last Word | Easy |
 
-Total Solved: **10**
+Total Solved: **11**
