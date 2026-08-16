@@ -15,5 +15,6 @@ My personal LeetCode solutions in C++.
 | 26 | Remove Duplicates from Sorted Array | Easy |
 | 27 | Remove Element | Easy |
 | 28 | Find the Index of the First Occurrence in a String | Easy |
+| 35 | Search Insert Position | Easy |
 
-Total Solved: **9**
+Total Solved: **10**
