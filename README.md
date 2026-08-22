@@ -18,5 +18,6 @@ My personal LeetCode solutions in C++.
 | 35 | Search Insert Position | Easy |
 | 58 | Length of Last Word | Easy |
 | 66 | Plus One | Easy |
+| 67 | Add Binary | Easy |
 
-Total Solved: **12**
+Total Solved: **13**
