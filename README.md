@@ -19,5 +19,6 @@ My personal LeetCode solutions in C++.
 | 58 | Length of Last Word | Easy |
 | 66 | Plus One | Easy |
 | 67 | Add Binary | Easy |
+| 69 | Sqrt(x) | Easy |
 
-Total Solved: **13**
+Total Solved: **14**
