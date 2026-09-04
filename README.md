@@ -20,5 +20,6 @@ My personal LeetCode solutions in C++.
 | 66 | Plus One | Easy |
 | 67 | Add Binary | Easy |
 | 69 | Sqrt(x) | Easy |
+| 70 | Climbing Stairs | Easy |
 
-Total Solved: **14**
+Total Solved: **15**
