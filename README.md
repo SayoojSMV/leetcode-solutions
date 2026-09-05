@@ -21,5 +21,6 @@ My personal LeetCode solutions in C++.
 | 67 | Add Binary | Easy |
 | 69 | Sqrt(x) | Easy |
 | 70 | Climbing Stairs | Easy |
+| 83 | Remove Duplicates from Sorted List | Easy |
 
-Total Solved: **15**
+Total Solved: **16**
