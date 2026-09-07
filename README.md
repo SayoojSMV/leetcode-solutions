@@ -23,5 +23,6 @@ My personal LeetCode solutions in C++.
 | 70 | Climbing Stairs | Easy |
 | 83 | Remove Duplicates from Sorted List | Easy |
 | 88 | Merge Sorted Array | Easy |
+| 94 | Binary Tree Inorder Traversal | Easy |
 
-Total Solved: **17**
+Total Solved: **18**
