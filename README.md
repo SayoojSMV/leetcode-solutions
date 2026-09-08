@@ -24,5 +24,6 @@ My personal LeetCode solutions in C++.
 | 83 | Remove Duplicates from Sorted List | Easy |
 | 88 | Merge Sorted Array | Easy |
 | 94 | Binary Tree Inorder Traversal | Easy |
+| 100 | Same Tree | Easy |
 
-Total Solved: **18**
+Total Solved: **19**
