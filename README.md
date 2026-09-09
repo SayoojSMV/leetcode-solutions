@@ -25,5 +25,6 @@ My personal LeetCode solutions in C++.
 | 88 | Merge Sorted Array | Easy |
 | 94 | Binary Tree Inorder Traversal | Easy |
 | 100 | Same Tree | Easy |
+| 101 | Symmetric Tree | Easy |
 
-Total Solved: **19**
+Total Solved: **20**
