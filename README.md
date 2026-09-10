@@ -26,5 +26,6 @@ My personal LeetCode solutions in C++.
 | 94 | Binary Tree Inorder Traversal | Easy |
 | 100 | Same Tree | Easy |
 | 101 | Symmetric Tree | Easy |
+| 104 | Maximum Depth of Binary Tree | Easy |
 
-Total Solved: **20**
+Total Solved: **21**
