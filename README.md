@@ -27,5 +27,6 @@ My personal LeetCode solutions in C++.
 | 100 | Same Tree | Easy |
 | 101 | Symmetric Tree | Easy |
 | 104 | Maximum Depth of Binary Tree | Easy |
+| 108 | Convert Sorted Array to Binary Search Tree | Easy |
 
-Total Solved: **21**
+Total Solved: **22**
