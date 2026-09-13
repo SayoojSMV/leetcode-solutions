@@ -29,5 +29,6 @@ My personal LeetCode solutions in C++.
 | 104 | Maximum Depth of Binary Tree | Easy |
 | 108 | Convert Sorted Array to Binary Search Tree | Easy |
 | 110 | Balanced Binary Tree | Easy |
+| 111 | Minimum Depth of Binary Tree | Easy |
 
-Total Solved: **23**
+Total Solved: **24**
