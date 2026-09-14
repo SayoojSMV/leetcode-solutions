@@ -30,5 +30,6 @@ My personal LeetCode solutions in C++.
 | 108 | Convert Sorted Array to Binary Search Tree | Easy |
 | 110 | Balanced Binary Tree | Easy |
 | 111 | Minimum Depth of Binary Tree | Easy |
+| 112 | Path Sum | Easy |
 
-Total Solved: **24**
+Total Solved: **25**
