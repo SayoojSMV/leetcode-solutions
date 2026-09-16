@@ -32,5 +32,6 @@ My personal LeetCode solutions in C++.
 | 111 | Minimum Depth of Binary Tree | Easy |
 | 112 | Path Sum | Easy |
 | 118 | Pascal's Triangle | Easy |
+| 119 | Pascal's Triangle II | Easy |
 
-Total Solved: **26**
+Total Solved: **27**
