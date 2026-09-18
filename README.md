@@ -33,5 +33,6 @@ My personal LeetCode solutions in C++.
 | 112 | Path Sum | Easy |
 | 118 | Pascal's Triangle | Easy |
 | 119 | Pascal's Triangle II | Easy |
+| 125 | Valid Palindrome | Easy |
 
-Total Solved: **27**
+Total Solved: **28**
