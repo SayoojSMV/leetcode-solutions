@@ -17,7 +17,7 @@ public:
                 right--;
             }
             
-            
+        
             if (std::tolower(s[left]) != std::tolower(s[right])) {
                 return false;
             }
