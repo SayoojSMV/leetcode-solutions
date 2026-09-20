@@ -7,6 +7,7 @@ My personal LeetCode solutions in C++.
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 1 | Two Sum | Easy |
+| 2 | Add Two Numbers | Medium |
 | 9 | Palindrome Number | Easy |
 | 13 | Roman to Integer | Easy |
 | 14 | Longest Common Prefix | Easy |
@@ -36,4 +37,4 @@ My personal LeetCode solutions in C++.
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 125 | Valid Palindrome | Easy |
 
-Total Solved: **29**
+Total Solved: **30**
