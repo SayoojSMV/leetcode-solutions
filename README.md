@@ -8,6 +8,7 @@ My personal LeetCode solutions in C++.
 |---|---------|------------|
 | 1 | Two Sum | Easy |
 | 2 | Add Two Numbers | Medium |
+| 3 | Longest Substring Without Repeating Characters | Medium |
 | 9 | Palindrome Number | Easy |
 | 13 | Roman to Integer | Easy |
 | 14 | Longest Common Prefix | Easy |
@@ -37,4 +38,4 @@ My personal LeetCode solutions in C++.
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 125 | Valid Palindrome | Easy |
 
-Total Solved: **30**
+Total Solved: **31**
