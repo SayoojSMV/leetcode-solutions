@@ -10,6 +10,7 @@ My personal LeetCode solutions in C++.
 | 2 | Add Two Numbers | Medium |
 | 3 | Longest Substring Without Repeating Characters | Medium |
 | 5 | Longest Palindromic Substring | Medium |
+| 6 | Zigzag Conversion | Medium |
 | 7 | Reverse Integer | Medium |
 | 8 | String to Integer (atoi) | Medium |
 | 9 | Palindrome Number | Easy |
@@ -42,4 +43,4 @@ My personal LeetCode solutions in C++.
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 125 | Valid Palindrome | Easy |
 
-Total Solved: **35**
+Total Solved: **36**
