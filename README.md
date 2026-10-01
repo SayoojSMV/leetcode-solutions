@@ -15,6 +15,7 @@ My personal LeetCode solutions in C++.
 | 8 | String to Integer (atoi) | Medium |
 | 9 | Palindrome Number | Easy |
 | 11 | Container With Most Water | Medium |
+| 12 | Integer to Roman | Medium |
 | 13 | Roman to Integer | Easy |
 | 14 | Longest Common Prefix | Easy |
 | 20 | Valid Parentheses | Easy |
@@ -43,4 +44,4 @@ My personal LeetCode solutions in C++.
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 125 | Valid Palindrome | Easy |
 
-Total Solved: **36**
+Total Solved: **37**
