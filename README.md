@@ -18,6 +18,7 @@ My personal LeetCode solutions in C++.
 | 12 | Integer to Roman | Medium |
 | 13 | Roman to Integer | Easy |
 | 14 | Longest Common Prefix | Easy |
+| 15 | 3Sum | Medium |
 | 20 | Valid Parentheses | Easy |
 | 21 | Merge Two Sorted Lists | Easy |
 | 26 | Remove Duplicates from Sorted Array | Easy |
@@ -44,4 +45,4 @@ My personal LeetCode solutions in C++.
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 125 | Valid Palindrome | Easy |
 
-Total Solved: **37**
+Total Solved: **38**
