@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-My personal LeetCode solutions in C++.
+My personal LeetCode solutions in C++
 
 ## Progress
 
