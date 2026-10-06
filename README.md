@@ -22,6 +22,7 @@ My personal LeetCode solutions in C++.
 | 16 | 3Sum Closest | Medium |
 | 17 | Letter Combinations of a Phone Number | Medium |
 | 18 | 4Sum | Medium |
+| 19 | Remove Nth Node From End of List | Medium |
 | 20 | Valid Parentheses | Easy |
 | 21 | Merge Two Sorted Lists | Easy |
 | 26 | Remove Duplicates from Sorted Array | Easy |
@@ -48,4 +49,4 @@ My personal LeetCode solutions in C++.
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 125 | Valid Palindrome | Easy |
 
-Total Solved: **41**
+Total Solved: **42**
