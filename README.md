@@ -26,6 +26,7 @@ My personal LeetCode solutions in C++.
 | 20 | Valid Parentheses | Easy |
 | 21 | Merge Two Sorted Lists | Easy |
 | 22 | Generate Parentheses | Medium |
+| 24 | Swap Nodes in Pairs | Medium |
 | 26 | Remove Duplicates from Sorted Array | Easy |
 | 27 | Remove Element | Easy |
 | 28 | Find the Index of the First Occurrence in a String | Easy |
@@ -50,4 +51,4 @@ My personal LeetCode solutions in C++.
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 125 | Valid Palindrome | Easy |
 
-Total Solved: **43**
+Total Solved: **44**
