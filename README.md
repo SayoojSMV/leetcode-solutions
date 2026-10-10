@@ -31,6 +31,7 @@ My personal LeetCode solutions in C++.
 | 27 | Remove Element | Easy |
 | 28 | Find the Index of the First Occurrence in a String | Easy |
 | 29 | Divide Two Integers | Medium |
+| 31 | Next Permutation | Medium |
 | 35 | Search Insert Position | Easy |
 | 58 | Length of Last Word | Easy |
 | 66 | Plus One | Easy |
@@ -52,4 +53,4 @@ My personal LeetCode solutions in C++.
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 125 | Valid Palindrome | Easy |
 
-Total Solved: **45**
+Total Solved: **46**
