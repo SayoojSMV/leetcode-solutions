@@ -33,6 +33,7 @@ My personal LeetCode solutions in C++.
 | 29 | Divide Two Integers | Medium |
 | 31 | Next Permutation | Medium |
 | 33 | Search in Rotated Sorted Array | Medium |
+| 34 | Find First and Last Position of Element in Sorted Array | Medium |
 | 35 | Search Insert Position | Easy |
 | 58 | Length of Last Word | Easy |
 | 66 | Plus One | Easy |
@@ -54,4 +55,4 @@ My personal LeetCode solutions in C++.
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 125 | Valid Palindrome | Easy |
 
-Total Solved: **47**
+Total Solved: **48**
