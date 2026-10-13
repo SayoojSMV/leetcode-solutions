@@ -35,6 +35,7 @@ My personal LeetCode solutions in C++.
 | 33 | Search in Rotated Sorted Array | Medium |
 | 34 | Find First and Last Position of Element in Sorted Array | Medium |
 | 35 | Search Insert Position | Easy |
+| 36 | Valid Sudoku | Medium |
 | 58 | Length of Last Word | Easy |
 | 66 | Plus One | Easy |
 | 67 | Add Binary | Easy |
@@ -55,4 +56,4 @@ My personal LeetCode solutions in C++.
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 125 | Valid Palindrome | Easy |
 
-Total Solved: **48**
+Total Solved: **49**
