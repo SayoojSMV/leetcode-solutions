@@ -37,6 +37,8 @@ My personal LeetCode solutions in C++.
 | 35 | Search Insert Position | Easy |
 | 36 | Valid Sudoku | Medium |
 | 38 | Count and Say | Medium |
+| 39 | Combination Sum | Medium |
+| 40 | Combination Sum II | Medium |
 | 58 | Length of Last Word | Easy |
 | 66 | Plus One | Easy |
 | 67 | Add Binary | Easy |
@@ -57,4 +59,4 @@ My personal LeetCode solutions in C++.
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 125 | Valid Palindrome | Easy |
 
-Total Solved: **50**
+Total Solved: **52**
