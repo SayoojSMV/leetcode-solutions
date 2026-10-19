@@ -41,7 +41,6 @@ My personal LeetCode solutions in C++.
 | 40 | Combination Sum II | Medium |
 | 43 | Multiply Strings | Medium |
 | 45 | Jump Game II | Medium |
-| 46 | Permutations | Medium |
 | 58 | Length of Last Word | Easy |
 | 66 | Plus One | Easy |
 | 67 | Add Binary | Easy |
@@ -62,4 +61,4 @@ My personal LeetCode solutions in C++.
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 125 | Valid Palindrome | Easy |
 
-Total Solved: **55**
+Total Solved: **54**
