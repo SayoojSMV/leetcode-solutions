@@ -44,6 +44,7 @@ My personal LeetCode solutions in C++.
 | 46 | Permutations | Medium |
 | 47 | Permutations II | Medium |
 | 48 | Rotate Image | Medium |
+| 49 | Group Anagrams | Medium |
 | 58 | Length of Last Word | Easy |
 | 66 | Plus One | Easy |
 | 67 | Add Binary | Easy |
@@ -64,4 +65,4 @@ My personal LeetCode solutions in C++.
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 125 | Valid Palindrome | Easy |
 
-Total Solved: **57**
+Total Solved: **58**
