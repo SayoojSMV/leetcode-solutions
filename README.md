@@ -56,6 +56,7 @@ My personal LeetCode solutions in C++.
 | 61 | Rotate List | Medium |
 | 62 | Unique Paths | Medium |
 | 63 | Unique Paths II | Medium |
+| 64 | Minimum Path Sum | Medium |
 | 66 | Plus One | Easy |
 | 67 | Add Binary | Easy |
 | 69 | Sqrt(x) | Easy |
@@ -75,4 +76,4 @@ My personal LeetCode solutions in C++.
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 125 | Valid Palindrome | Easy |
 
-Total Solved: **68**
+Total Solved: **69**
