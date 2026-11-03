@@ -61,6 +61,7 @@ My personal LeetCode solutions in C++.
 | 67 | Add Binary | Easy |
 | 69 | Sqrt(x) | Easy |
 | 70 | Climbing Stairs | Easy |
+| 71 | Simplify Path | Medium |
 | 83 | Remove Duplicates from Sorted List | Easy |
 | 88 | Merge Sorted Array | Easy |
 | 94 | Binary Tree Inorder Traversal | Easy |
@@ -76,4 +77,4 @@ My personal LeetCode solutions in C++.
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 125 | Valid Palindrome | Easy |
 
-Total Solved: **69**
+Total Solved: **70**
