@@ -65,6 +65,7 @@ My personal LeetCode solutions in C++.
 | 72 | Edit Distance | Medium |
 | 73 | Set Matrix Zeroes | Medium |
 | 74 | Search a 2D Matrix | Medium |
+| 75 | Sort Colors | Medium |
 | 83 | Remove Duplicates from Sorted List | Easy |
 | 88 | Merge Sorted Array | Easy |
 | 94 | Binary Tree Inorder Traversal | Easy |
@@ -80,4 +81,4 @@ My personal LeetCode solutions in C++.
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 125 | Valid Palindrome | Easy |
 
-Total Solved: **73**
+Total Solved: **74**
