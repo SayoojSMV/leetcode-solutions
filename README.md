@@ -69,6 +69,7 @@ My personal LeetCode solutions in C++.
 | 77 | Combinations | Medium |
 | 78 | Subsets | Medium |
 | 79 | Word Search | Medium |
+| 80 | Remove Duplicates from Sorted Array II | Medium |
 | 83 | Remove Duplicates from Sorted List | Easy |
 | 88 | Merge Sorted Array | Easy |
 | 94 | Binary Tree Inorder Traversal | Easy |
@@ -84,4 +85,4 @@ My personal LeetCode solutions in C++.
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 125 | Valid Palindrome | Easy |
 
-Total Solved: **77**
+Total Solved: **78**
