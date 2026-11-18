@@ -77,6 +77,7 @@ My personal LeetCode solutions in C++.
 | 88 | Merge Sorted Array | Easy |
 | 89 | Gray Code | Medium |
 | 90 | Subsets II | Medium |
+| 91 | Decode Ways | Medium |
 | 94 | Binary Tree Inorder Traversal | Easy |
 | 100 | Same Tree | Easy |
 | 101 | Symmetric Tree | Easy |
@@ -90,4 +91,4 @@ My personal LeetCode solutions in C++.
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 125 | Valid Palindrome | Easy |
 
-Total Solved: **83**
+Total Solved: **84**
