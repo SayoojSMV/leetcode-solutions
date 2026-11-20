@@ -79,7 +79,9 @@ My personal LeetCode solutions in C++.
 | 90 | Subsets II | Medium |
 | 91 | Decode Ways | Medium |
 | 92 | Reverse Linked List II | Medium |
+| 93 | Restore IP Addresses | Medium |
 | 94 | Binary Tree Inorder Traversal | Easy |
+| 95 | Unique Binary Search Trees II | Medium |
 | 100 | Same Tree | Easy |
 | 101 | Symmetric Tree | Easy |
 | 104 | Maximum Depth of Binary Tree | Easy |
@@ -92,4 +94,4 @@ My personal LeetCode solutions in C++.
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 125 | Valid Palindrome | Easy |
 
-Total Solved: **85**
+Total Solved: **87**
