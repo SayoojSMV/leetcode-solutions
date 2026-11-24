@@ -84,6 +84,7 @@ My personal LeetCode solutions in C++.
 | 95 | Unique Binary Search Trees II | Medium |
 | 96 | Unique Binary Search Trees | Medium |
 | 97 | Interleaving String | Medium |
+| 98 | Validate Binary Search Tree | Medium |
 | 100 | Same Tree | Easy |
 | 101 | Symmetric Tree | Easy |
 | 104 | Maximum Depth of Binary Tree | Easy |
@@ -96,4 +97,4 @@ My personal LeetCode solutions in C++.
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 125 | Valid Palindrome | Easy |
 
-Total Solved: **90**
+Total Solved: **91**
