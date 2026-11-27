@@ -89,6 +89,7 @@ My personal LeetCode solutions in C++.
 | 100 | Same Tree | Easy |
 | 101 | Symmetric Tree | Easy |
 | 102 | Binary Tree Level Order Traversal | Medium |
+| 103 | Binary Tree Zigzag Level Order Traversal | Medium |
 | 104 | Maximum Depth of Binary Tree | Easy |
 | 108 | Convert Sorted Array to Binary Search Tree | Easy |
 | 110 | Balanced Binary Tree | Easy |
@@ -99,4 +100,4 @@ My personal LeetCode solutions in C++.
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 125 | Valid Palindrome | Easy |
 
-Total Solved: **93**
+Total Solved: **94**
