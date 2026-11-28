@@ -99,5 +99,6 @@ My personal LeetCode solutions in C++.
 | 119 | Pascal's Triangle II | Easy |
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 125 | Valid Palindrome | Easy |
+| 136 | Single Number | Easy |
 
-Total Solved: **94**
+Total Solved: **95**
